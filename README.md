@@ -307,31 +307,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn streamlit
 streamlit run app.py
 ```
 
----
-
-## 📸 Application Screenshots
-
-Add your Streamlit screenshots here.
-
-Example:
-
-```text
-screenshots/
-│
-├── home.png
-├── input.png
-└── prediction.png
-```
-
-Then add them to this README:
-
-```markdown
-![Home Page](screenshots/home.png)
-
-![Prediction Page](screenshots/prediction.png)
-```
-
----
 
 ## 📚 Learning Outcomes
 
